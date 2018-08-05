@@ -1,4 +1,7 @@
-# geotroner
+# GeoTroner
+
+## More info can be found [here](https://devpost.com/software/geotroner)
+
 ## Inspiration
 Our inspiration is the classic arcade game **Tron**, but then we thought why be bounded by a 2d grid, when you have the whole world around you. 
 
